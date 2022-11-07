@@ -31,8 +31,8 @@ SO THAT I can reliably retrieve them for later use
 
 ## Links
 
-* GitHub: 
-* Heroku:
+* GitHub: https://github.com/sflores926/Text-Editor
+* Heroku: https://whispering-eyrie-46711.herokuapp.com/
 
 ## Mock-Up
 
