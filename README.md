@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-## OUR Task
+## Our Task
 
 Our task is to build a text editor that meets PWA criteria that runs in the browser. We will start with an existing application and implement methods for getting and storing data to an IndexedDB database. We will use a package called `idb`, and methods that are used for storing and retrieving data. Then we will deploy this full-stack application to Heroku.
 
